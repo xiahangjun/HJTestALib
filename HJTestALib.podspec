@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "HJTestALib"
-  spec.version      = "0.1.0"
+  spec.version      = "0.1.2"
   spec.summary      = "A short description of HJTestALib."
   spec.description  = <<-DESC
   HJTestALib
