@@ -1,0 +1,6 @@
+framework module HJTestALib {
+  umbrella header "HJTestALib.h"
+
+  export *
+  module * { export * }
+}

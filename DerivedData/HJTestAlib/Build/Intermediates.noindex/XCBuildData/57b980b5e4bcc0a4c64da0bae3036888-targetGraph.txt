@@ -1,0 +1,12 @@
+Target dependency graph (6 targets)
+HJTestALib in Pods
+Pods-HJTestALib in Pods, depends on:
+HJTestALib in Pods (explicit)
+HJTestALib in HJTestALib, depends on:
+Pods-HJTestALib in Pods (implicit dependency via file 'Pods_HJTestALib.framework' in build phase 'Link Binary'
+HJTestALib in Pods (implicit dependency via options '-framework HJTestALib' in build setting 'OTHER_LDFLAGS'
+HJTestDemo in HJTestDemo
+HJTestDemoTests in HJTestDemo, depends on:
+HJTestDemo in HJTestDemo (explicit)
+HJTestDemoUITests in HJTestDemo, depends on:
+HJTestDemo in HJTestDemo (explicit)

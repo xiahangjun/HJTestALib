@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>84B88E9C-4EC6-4C0A-9D2B-D4A5EC6CF2C1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>84B88E9C-4EC6-4C0A-9D2B-D4A5EC6CF2C1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HJTestDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HJTestDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build HJTestDemo</string>
+			<key>timeStartedRecording</key>
+			<real>647076202.55750895</real>
+			<key>timeStoppedRecording</key>
+			<real>647076215.49077594</real>
+			<key>title</key>
+			<string>Build HJTestDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>84B88E9C-4EC6-4C0A-9D2B-D4A5EC6CF2C1</string>
+		</dict>
+		<key>F535261D-520C-44E8-AF71-7CA929C4ABC1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F535261D-520C-44E8-AF71-7CA929C4ABC1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HJTestALib project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HJTestALib</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build HJTestALib</string>
+			<key>timeStartedRecording</key>
+			<real>647074587.94697106</real>
+			<key>timeStoppedRecording</key>
+			<real>647074588.17681205</real>
+			<key>title</key>
+			<string>Build HJTestALib</string>
+			<key>uniqueIdentifier</key>
+			<string>F535261D-520C-44E8-AF71-7CA929C4ABC1</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

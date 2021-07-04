@@ -1,0 +1,7 @@
+Target dependency graph (4 targets)
+HJTestALib in HJTestALib
+HJTestDemo in HJTestDemo
+HJTestDemoTests in HJTestDemo, depends on:
+HJTestDemo in HJTestDemo (explicit)
+HJTestDemoUITests in HJTestDemo, depends on:
+HJTestDemo in HJTestDemo (explicit)

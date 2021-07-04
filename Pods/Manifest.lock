@@ -1,0 +1,16 @@
+PODS:
+  - HJTestALib (0.0.1)
+
+DEPENDENCIES:
+  - "HJTestALib (from `/Users/mac/Desktop/组件化`)"
+
+EXTERNAL SOURCES:
+  HJTestALib:
+    :path: "/Users/mac/Desktop/组件化"
+
+SPEC CHECKSUMS:
+  HJTestALib: 1272c6d8cd88dee966a2577d81b10b52d4b82ff1
+
+PODFILE CHECKSUM: a05444a383a91dc5d334344ddba78d0765bbc5a9
+
+COCOAPODS: 1.9.2

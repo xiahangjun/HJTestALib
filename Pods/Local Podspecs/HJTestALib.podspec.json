@@ -1,0 +1,29 @@
+{
+  "name": "HJTestALib",
+  "version": "0.0.1",
+  "summary": "A short description of HJTestALib.",
+  "description": "HJTestALib",
+  "homepage": "https://github.com/xiahangjun/Specs",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "xiahangjun114": "1163648395@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/xiahangjun/Specs.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "HJTestALib",
+    "HJTestALib/**/*.{h,m}"
+  ],
+  "exclude_files": "HJTestALib/Exclude",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}
