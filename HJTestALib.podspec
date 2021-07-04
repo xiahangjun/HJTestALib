@@ -18,7 +18,7 @@ Pod::Spec.new do |spec|
 
   spec.homepage     = "https://github.com/xiahangjun/Specs"
   
-  spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  spec.license      = { :type => "MIT", :file => "LICENSE" }
 
 
 
